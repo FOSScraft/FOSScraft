@@ -1,5 +1,5 @@
 <!--
-    FOSScraft - A free and open-source Minecraft launcher
+    FOSScraft - A free and open-source Minecraft launcher based on Prism Launcher
     Licensed under GPLv3.
 -->
  > # *Currently Under Construction*
@@ -12,7 +12,8 @@ Easily manage multiple Minecraft installations with a modern, streamlined interf
 
 ---
 
-## 📥 Installation
+## Installation
+> Working on download links, for now please download from [here](https://github.com/FOSScraft/FOSScraft/releases)
 
 All downloads and instructions for FOSScraft can be found on our [Website](https://fosscraft.org/download).
 
@@ -20,7 +21,7 @@ Last build status can be found in the [GitHub Actions](https://github.com/FOSScr
 
 ### Development Builds
 
-> ⚠️ **Please understand that development builds are not intended for most users.** There may be bugs and other instabilities. You have been warned.
+> ⚠️ **Devlopment builds are not intended for most users,** There may be bugs and other instabilities, You have been warned.
 
 There are development builds available through:
 
@@ -41,7 +42,7 @@ These packages are also available to all the distributions based on the ones men
 
 ---
 
-## 🤝 Community & Support
+## Community & Support
 
 Feel free to create a GitHub issue if you find a bug or want to suggest a new feature. We have multiple community spaces where other community members can help you:
 
@@ -51,13 +52,14 @@ Join our Discord community: [fosscraft.org/discord](https://fosscraft.org/discor
 
 ---
 
-## 🌍 Translations
+## Translations
 
 The translation effort for FOSScraft is hosted on [Weblate](https://hosted.weblate.org/projects/fosscraft/launcher/) and information about translating FOSScraft is available at [github.com/FOSScraft/Translations](https://github.com/FOSScraft/Translations).
 
 ---
 
-## 🔨 Building
+##  Building
+> For Now, refer to the FOSScraft docs [here](fosscraft.github.io) as none of these links
 
 If you want to build FOSScraft yourself, check the build instructions:
 
@@ -68,31 +70,20 @@ If you want to build FOSScraft yourself, check the build instructions:
 
 ---
 
-## 💖 Sponsors & Partners
+## Sponsors & Partners
 
 **Open Collective**
 
-We thank all the wonderful backers over at Open Collective! Support FOSScraft by [becoming a backer](https://opencollective.com/fosscraft).
+Support FOSScraft by [becoming a backer](https://opencollective.com/fosscraft).
 
-**JetBrains**
-
-Thanks to JetBrains for providing us a few licenses for all their products, as part of their [Open Source program](https://www.jetbrains.com/opensource/).
-
-**Weblate**
-
-Thanks to [Weblate](https://weblate.org/) for hosting our translation efforts.
-
-**Netlify**
-
-Thanks to Netlify for providing us their excellent web services, as part of their [Open Source program](https://www.netlify.com/open-source/).
-
-**MacStadium**
-
-Thanks to the awesome people over at [MacStadium](https://www.macstadium.com/), for providing M1-Macs for development purposes!
-
+> **Sponsers of the Original Prism Launcher project**
+>   - JetBrains
+>   - Netlify
+>   - MacStadium
+  
 ---
 
-## ⚙️ Building and Customization
+##  Building and Customization
 
 If you are building FOSScraft for your distribution, please make sure to set the `Launcher_BUILD_PLATFORM` to a slug representing your distribution. Examples are `archlinux`, `fedora` and `nixpkgs`.
 
@@ -107,11 +98,11 @@ If you do not agree with these terms and conditions, then remove the associated 
 
 ---
 
-## 📜 License
+##  License
 
 **All launcher code is available under the [GPL-3.0-only license](https://github.com/FOSScraft/FOSScraft/blob/develop/LICENSE).**
-
-Related assets are under the CC BY-SA 4.0 license.
+FOSScraft will **Always** be **Free & Open Source**, This project is and was not built for monetary gain and I won't sell out
+All Related assets are under the CC BY-SA 4.0 license.
 
 ---
 
