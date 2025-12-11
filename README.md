@@ -2,7 +2,8 @@
     FOSScraft - A free and open-source Minecraft launcher
     Licensed under GPLv3.
 -->
-
+ > # *Currently Under Construction*
+ > *No Downloads available, don't even try the links, almost none of the fosscraft.org / download links work, working on it*
 # FOSScraft
 
 > A free and open-source Minecraft launcher
@@ -46,15 +47,7 @@ Feel free to create a GitHub issue if you find a bug or want to suggest a new fe
 
 ### Discord Server
 
-Join our Discord community: [fosscraft.org/discord](https://fosscraft.org/discord)
-
-### Matrix Space
-
-Connect with us on Matrix: [fosscraft.org/matrix](https://fosscraft.org/matrix)
-
-### Subreddit
-
-Subscribe to our community: [r/FOSScraft](https://fosscraft.org/reddit)
+Join our Discord community: [fosscraft.org/discord](https://fosscraft.org/discord) 
 
 ---
 
