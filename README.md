@@ -3,7 +3,7 @@
     Licensed under GPLv3.
 -->
  > # *Currently Under Construction*
- > *No Downloads available, don't even try the links, almost none of the fosscraft.org / download links work, working on it*
+ > *Building Everything Right Now, Please be patient.*
 # FOSScraft
 
 > A free and open-source Minecraft launcher
